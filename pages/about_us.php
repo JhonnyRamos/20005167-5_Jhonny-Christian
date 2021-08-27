@@ -1,5 +1,5 @@
 <head>
-    <title>Tia Joana's | About Us</title>
+    <title>Doces da Jo | Quem Somos</title>
     <style>
         .drop-shadow {
             box-shadow: 0 5px 30px #ccc;
@@ -11,7 +11,7 @@
     <!-- about us - page introducing -->    
     <div class="container p-5 mb-4 bg-light rounded-3">
         <div class="container-fluid px-5 py-5">
-            <h1 class="display-5 fw-bold">Sobre</h1>
+            <h1 class="display-5 fw-bold">Quem Somos</h1>
             <p class="col-md-8 fs-4">Conheça um pouco mais sobre esse empreendimento e como levamos nossos clientes a sério quando o foco é qualidade e bom atendimento</p>
         </div>
     </div>
