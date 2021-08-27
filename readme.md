@@ -38,7 +38,9 @@ https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/cl
 ## About me
 
 Estudante de Tecnologias em Sistemas para Internet, na UniCesumar - PR
+<br>
 RA: 20005167-5
+<br>
 Github: https://github.com/JhonnyRamos
 
 ## License
