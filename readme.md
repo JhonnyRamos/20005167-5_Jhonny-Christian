@@ -19,7 +19,7 @@
 </p>
 
 ## Features
-Below are all features used on this project:
+Abaixo estão todos os recursos usados ​​neste projeto:
 
 - **HTML5** — Standard markup language
 - **Bootstrap** — Stylization framework
@@ -29,8 +29,8 @@ Below are all features used on this project:
 
 ## Getting started
 
-You can clone and use the repository anytime 
-If you don't remember how, follow this GitHub official link below in order to get the doc:
+Você pode clonar e usar o repositório a qualquer momento
+Se você não se lembra como, siga este link oficial do GitHub abaixo para obter o documento:
 https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 
 <br>
